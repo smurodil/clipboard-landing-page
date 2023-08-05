@@ -353,6 +353,7 @@ main {
 .footer__links__wrapper i {
   color: #4C545C;
   margin-right: 24px;
+  cursor: pointer;
 }
 
 .footer__links__wrapper i:hover {
