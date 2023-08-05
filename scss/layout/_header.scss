@@ -1,0 +1,42 @@
+.header {
+}
+
+.header__background{
+    z-index: 0;
+    position: absolute;
+}
+.header__container {
+    text-align: center;
+    padding-top: 131px;
+    margin-bottom: 150px;
+}
+.site__logo {
+    margin-bottom: 56px;
+}
+.logo__img {
+}
+.header__title {
+    margin-bottom: 16px;
+}
+.header__description {
+    width: 730px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 48px;
+    color: $text-color;
+    font-weight: 400;
+    letter-spacing: 0.15px;
+}
+.header__button__wrapper {
+}
+.header__link__left {
+    margin-right: 16px;
+}
+.green__btn {
+}
+.btn {
+}
+.header__link__right {
+}
+.blue__btn {
+}

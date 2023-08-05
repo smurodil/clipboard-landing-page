@@ -1,0 +1,166 @@
+main{
+    flex-grow: 1;
+}
+
+.hero {
+}
+.hero__container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 150px;
+}
+.hero__content {
+    text-align: center;
+}
+.hero__title {
+    margin-bottom: 19px;
+}
+.hero__description {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;  
+    color: $text-color;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+.hero__middle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero__middle img{
+    object-fit: cover;
+}
+.hero__list {
+    width: 350px;
+}
+.hero__item {
+    margin-bottom: 56px;
+}
+.hero__item__title {
+    margin-bottom: 8px;
+}
+.hero__item__description {
+    font-size: 16px;
+    letter-spacing: 0.12px;
+    color: $text-color;
+}
+
+.clipboard {
+}
+.clipboard__container {
+    margin-bottom: 161px;
+}
+.clipboard__content {
+    text-align: center;
+}
+.clipboard__title {
+    margin-bottom: 19px;
+}
+.clipboard__description {
+    font-weight: 400;
+    color: $text-color;
+    width: 730px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 110px;
+}
+
+.clipboard__container img{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.workflow {
+}
+.workflow__container {
+    margin-bottom: 150px;
+}
+.workflow__text__wrapper {
+    text-align: center;
+    margin-bottom: 72px;
+}
+.workflow__title {
+    margin-bottom: 19px;
+}
+.workflow__description {
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.14px;
+    color: $text-color;
+}
+.workflow__services__list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.workflow__services__item {
+    text-align: center;
+    width: 350px;
+}
+.workflow__services__item img{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 40px;
+}
+.workflow__item__title {
+    margin-bottom: 16px;
+}
+.workflow__item__description {
+    width: 350px;
+    font-size: 16px;
+    letter-spacing: 0.12px;
+    color: $text-color;
+}
+.companies__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.companies__item {
+}
+.google__icon {
+}
+.imb__icon {
+}
+.microsoft__icon {
+}
+.hawlett__icon {
+}
+.vector__icon {
+}
+
+.download {
+}
+.download__container {
+    margin-bottom: 150px;
+}
+.download__text__wrapper {
+    text-align: center;
+    margin-bottom: 48px;
+}
+.download__title {
+    margin-bottom: 19px;
+}
+.download__description {
+    width: 730px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+    letter-spacing: 0.14px;
+    color: $text-color;
+}
+.download__button__wrapper {
+    text-align: center;
+}
+.downlod__link__left {
+    margin-right: 16px;
+}
+.green__btn {
+}
+.btn {
+}
+.downlod__link__right {
+}
+.blue__btn {
+}
